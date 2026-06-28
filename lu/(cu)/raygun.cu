@@ -1,0 +1,2 @@
+streams/FX_RAYGUN_CK_FIRE.mp3
+streams/FX_RAYGUN_CK_LOAD.mp3

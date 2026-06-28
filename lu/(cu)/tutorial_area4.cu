@@ -1,0 +1,9 @@
+streams/FX_Door_Wood_Swing_Quiet.mp3
+streams/FX_Door_Wood_Open_Quiet3.mp3
+streams/FX_Door_Wood_Open_Quiet.mp3
+streams/FX_Door_Wood_Open_Quiet2.mp3
+streams/FX_Door_Wood_Close_Quiet1.mp3
+streams/FX_Door_Wood_Close_Loud1.mp3
+streams/FX_Door_Wood_Swing_Loud.mp3
+streams/FX_DAVE_PHONE_FIX_IN1.mp3
+streams/FX_Payphone1_Ring_Internal.mp3

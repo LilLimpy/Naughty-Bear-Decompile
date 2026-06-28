@@ -1,0 +1,10 @@
+streams/FX_Wardrobe_Door_CloseQuiet.mp3
+streams/FX_Wardrobe_Door_OpenLoud.mp3
+streams/FX_Wardrobe_Door_OpenQuiet.mp3
+streams/FX_Wardrobe_Slide.mp3
+streams/FX_Wardrobe_Door_CloseLoud.mp3
+streams/FX_Wardrobe_Door_CloseQuiet.mp3
+streams/FX_Wardrobe_Door_OpenLoud.mp3
+streams/FX_Wardrobe_Door_OpenQuiet.mp3
+streams/FX_Wardrobe_Slide.mp3
+streams/FX_Wardrobe_Door_CloseLoud.mp3

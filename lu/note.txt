@@ -1,0 +1,1 @@
+All .lu files are usually packaged in their own individual .PSARC file. The .lu's in "(lu)other" weren't packaged though, not certain why. They don't seem to differ in any way except for the fact they weren't packaged & compressed.

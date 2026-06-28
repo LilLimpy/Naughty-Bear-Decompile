@@ -1,0 +1,15 @@
+streams/MU_Torment_Demo_Menu.mp3
+streams/MU_Torment_Game_Summary.mp3
+streams/MU_Torment_Game_Summary_Failure.mp3
+streams/MU_TOTAL_SCORE.mp3
+streams/MU_FINAL_GRADE.mp3
+streams/MU_SCORE_01.mp3
+streams/FX_TUTORIAL_TEXTBOX.mp3
+streams/fx_menu_logo_Vinyl.mp3
+streams/FX_Menu_Intro.mp3
+streams/fx_menu_pause_background.mp3
+streams/VO_DAV_RASPBERRY05.mp3
+streams/VO_DAV_RASPBERRY01.mp3
+streams/VO_DAV_RASPBERRY02.mp3
+streams/VO_DAV_RASPBERRY03.mp3
+streams/VO_DAV_RASPBERRY04.mp3
